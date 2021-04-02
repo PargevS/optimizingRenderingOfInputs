@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/optimizingRenderingOfInputs/static/css/main.f1617d44.chunk.css",
+    "main.js": "/optimizingRenderingOfInputs/static/js/main.9150014e.chunk.js",
+    "main.js.map": "/optimizingRenderingOfInputs/static/js/main.9150014e.chunk.js.map",
+    "runtime-main.js": "/optimizingRenderingOfInputs/static/js/runtime-main.4005023e.js",
+    "runtime-main.js.map": "/optimizingRenderingOfInputs/static/js/runtime-main.4005023e.js.map",
+    "static/js/2.4a7eb198.chunk.js": "/optimizingRenderingOfInputs/static/js/2.4a7eb198.chunk.js",
+    "static/js/2.4a7eb198.chunk.js.map": "/optimizingRenderingOfInputs/static/js/2.4a7eb198.chunk.js.map",
+    "index.html": "/optimizingRenderingOfInputs/index.html",
+    "static/css/main.f1617d44.chunk.css.map": "/optimizingRenderingOfInputs/static/css/main.f1617d44.chunk.css.map",
+    "static/js/2.4a7eb198.chunk.js.LICENSE.txt": "/optimizingRenderingOfInputs/static/js/2.4a7eb198.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4005023e.js",
+    "static/js/2.4a7eb198.chunk.js",
+    "static/css/main.f1617d44.chunk.css",
+    "static/js/main.9150014e.chunk.js"
+  ]
+}
