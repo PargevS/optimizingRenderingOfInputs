@@ -24,3 +24,6 @@
  field-3 </br>
  Total =  3 </br>
 </p>
+
+
+<p>Demo: https://pargevs.github.io/optimizingRenderingOfInputs/ </p>
