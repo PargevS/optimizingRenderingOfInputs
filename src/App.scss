@@ -1,0 +1,17 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  /* display: none; <- Crashes Chrome on hover */
+  -webkit-appearance: none;
+  margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+
+.form{
+  width: 300px;
+  position: relative;
+  background: #231F30;
+  padding: 1em;
+  font-size: 16px;
+
+
+  .form-item{margin-bottom: 0.5em;}
+}

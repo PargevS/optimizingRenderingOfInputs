@@ -1,0 +1,35 @@
+.input-wrapper {
+  width: 100%;
+  font-size: inherit;
+  min-height: 1em;
+  position: relative;
+
+  & > label {
+    width: 100%;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+
+    & > span, & > input {
+      display: inline-block;
+      position: relative;
+      width: 100%;
+    }
+
+    & > span {
+      color: rgba(255, 255, 255, 0.5);
+      margin-bottom: 0.25em;
+    }
+
+    & > input {
+      font-size: 1.2em;
+      border: 1px solid transparent;
+      outline: none;
+      padding: 0.1em;
+      background: #373343;
+      color: #fff;
+    }
+  }
+}
